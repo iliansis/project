@@ -112,7 +112,7 @@
             <div class="row">
                 <div class="col-sm-3">
                     <div class="card" style="width: 18rem;">
-                        <img src="../images/chehol.jpg" class="card-img-top" alt="...">
+                        <img src="../images/chehol.jpg" class="card-img-top" >
                         <div class="card-body">
                           <h5 class="card-title">Чехол (клип-кейс) DF poOriginal-02, для Xiaomi Poco X3/X3 Pro, синий [df pooriginal-02 (blue)]</h5>
                           <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -124,7 +124,7 @@
 
                 <div class="col-sm-3">
                     <div class="card" style="width: 18rem;">
-                        <img src="../images/steklo.jpg" class="card-img-top" alt="...">
+                        <img src="../images/steklo.jpg" class="card-img-top">
                         <div class="card-body">
                           <h5 class="card-title">Защитное стекло для камеры BORASCO для Xiaomi Poco X3/ X3 Pro антиблик, гибридная, 1 шт </h5>
                           <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
